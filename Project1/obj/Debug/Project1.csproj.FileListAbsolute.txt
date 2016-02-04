@@ -1,0 +1,6 @@
+C:\Users\dujin_000\Source\Repos\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\dujin_000\Source\Repos\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\dujin_000\Source\Repos\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\dujin_000\Source\Repos\Project1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+C:\Users\dujin_000\Source\Repos\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\dujin_000\Source\Repos\Project1\Project1\obj\Debug\Project1.pdb
